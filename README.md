@@ -7,7 +7,7 @@
 
 #### 安装教程
 
-1.  android平台用户点击'[易尘宝-v1.0.34.apk](https://gitee.com/beijing-jicang/yichenbao/releases/download/v1.0.34/yichenbao.apk)'
+1.  android平台用户点击'[yichenbao.apk](https://github.com/beijing-jicang/yichenbao/releases/download/current/yichenbao.apk)'
 
 #### 使用说明
 
